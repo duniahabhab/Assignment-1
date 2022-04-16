@@ -1,1 +1,25 @@
 
+body {
+    background-color: linen, lightblue;
+    text-align: left;
+  }
+
+
+  header{
+      text-align: left;
+      text-decoration: blueviolet, red, pink;
+      font-weight: bolder;
+
+
+      
+  }
+
+  h1 {
+    color: maroon;
+    margin-left: 10px;
+    text-align: left;
+  } 
+
+  .img{
+      margin: 250px;
+  }
